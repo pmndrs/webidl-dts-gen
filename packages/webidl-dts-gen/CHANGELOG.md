@@ -1,5 +1,11 @@
 # webidl-dts-gen
 
+## 1.11.3
+
+### Patch Changes
+
+- e2d3127: Fix 'implements' support for identifiers with underscores
+
 ## 1.11.2
 
 ### Patch Changes
